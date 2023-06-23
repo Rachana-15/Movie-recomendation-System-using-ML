@@ -10,9 +10,11 @@ Implementation:
 The movie recommendation system is implemented in Python using the scikit-learn library for calculating cosine similarity. The system uses a dataset of movie titles and their corresponding feature vectors, which are calculated based on the movie's genre and keywords. The feature vectors are normalized to have unit length to ensure that the cosine similarity calculation is accurate.
 
 Trained Model output:
-1.
+
 ![image](https://github.com/Rachana-15/Movie-recomendation-System-using-ML/assets/91749520/9e30702e-c1eb-420e-add5-24bad6990a7a)
-2.
+
+![image](https://github.com/Rachana-15/Movie-recomendation-System-using-ML/assets/91749520/247d04af-3017-42ce-95d8-9bbaa85d1045)
+
 
 
 
